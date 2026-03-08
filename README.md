@@ -34,7 +34,7 @@
           <a href="#link4">Aprendiendo</a>
           <a href="#link5">Estadísticas</a>
           <a href="#link6">Proyectos</a>
-          <a href="#link7">Gráfico</a>
+          <a href="#link7">Actividad</a>
           <a href="#link8">Contacto</a>
         </p>
       </nav>
@@ -121,7 +121,12 @@
         </article>
         </br>
         <article>
-          <h2 id="link7">📊 Gráfico</h2>
+          <h2 id="link7">📊 Gráfico de actividad</h2>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexxnndev/flexxnndev/output/snake-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexxnndev/flexxnndev/output/snake.svg" />
+            <img alt="Snake animation" src="https://raw.githubusercontent.com/flexxnndev/flexxnndev/output/snake.svg" />
+          </picture>
         </article>
         </br>
         <article>
