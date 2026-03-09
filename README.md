@@ -3,7 +3,14 @@
 <html>
   <head>
     <link href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <style>
+      body {
+        font-family: "Silkscreen", cursive;
+      }
+      #greeting {
+          font-size: 40px;
+      }
+    </style>
   </head>
   <body>
     <header>
