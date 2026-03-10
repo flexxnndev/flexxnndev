@@ -88,7 +88,7 @@
         <article>
           <h1>✉️ Contacto</h1>
             <p align="center">
-              <a href="https://www.linkedin.com/in/adri%C3%A1n-g-347a09277/">
+              <a href="mailto:flexxdev.contact@gmail.com">
                 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
               </a>
               <a href="https://www.linkedin.com/in/adri%C3%A1n-g-347a09277/">
