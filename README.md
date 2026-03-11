@@ -43,9 +43,9 @@
         <article>
           <h1>⭐ Programming languages</h1>
           <p align="center">
-            <img src="https://skillicons.dev/icons?i=html,css"
-              title="HTML, CSS" 
-              alt="HTML, CSS"
+            <img src="https://skillicons.dev/icons?i=html,css,java,c,cpp"
+              title="HTML, CSS, Java, C, C++" 
+              alt="HTML, CSS, Java, C, C++"
             />
           </p>
         </article>
