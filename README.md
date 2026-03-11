@@ -20,7 +20,7 @@
               <li>💻 Passion for the whole world of computing.</li>
               <li>🤖 Special interest in AI, front-end and mobile devices.</li>
               <li>🧠 Currently exploring new sectors outside of university studies.</li>
-              <li>📨 <a href="mailto:flexxdev.contact@gmail.com">Contact.</a></li>
+              <li>📨 Mail: flexxdev.contact@gmail.com</li>
             </ul>
           </font>
         </article>
@@ -88,9 +88,9 @@
         <article>
           <h1>✉️ Contact</h1>
             <p align="center">
-              <a href="mailto:flexxdev.contact@gmail.com">
-                ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-              </a>
+              flexxdev.contact@gmail.com
+              </br>
+              </br>
               <a href="https://www.linkedin.com/in/adri%C3%A1n-g-347a09277/">
                 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
               </a>
