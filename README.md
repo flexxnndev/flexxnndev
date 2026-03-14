@@ -91,7 +91,7 @@
               flexxdev.contact@gmail.com
               </br>
               </br>
-              <a href="https://www.linkedin.com/in/adri%C3%A1n-g-347a09277/">
+              <a href="https://www.linkedin.com/in/adri%C3%A1n-g-347a09277/" target="_blank" rel="noreferrer">
                 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
               </a>
             </p>
@@ -103,10 +103,10 @@
       <h3>Credits (websites and sources used)</h3>
       <font size="4">
         <ul>
-          <li><a href="https://skillicons.dev">Icons of programming languages, frameworks and other tools.</a></li>
-          <li><a href="https://git.io/streak-stats">GitHub Statistics (panel 1).</a></li>
-          <li><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Statistics (panel 2 y 3).</a></li>
-          <li><a href="https://github.com/Ileriayo/markdown-badges/tree/master">Contact icons.</a></li>
+          <li><a href="https://skillicons.dev" target="_blank" rel="noreferrer">Icons of programming languages, frameworks and other tools.</a></li>
+          <li><a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">GitHub Statistics (panel 1).</a></li>
+          <li><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">GitHub Statistics (panel 2 y 3).</a></li>
+          <li><a href="https://github.com/Ileriayo/markdown-badges/tree/master" target="_blank" rel="noreferrer">Contact icons.</a></li>
         </ul>
       </font>
     </footer>
