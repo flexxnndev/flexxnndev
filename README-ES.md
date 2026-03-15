@@ -4,13 +4,14 @@
   </head>
   <body>
     <header>
-  
+  <!-- LANGUAGES -->
   [🇬🇧 English](README.md) | [🇪🇸 Español](README-ES.md)
       <nav></nav>
     </header>
     <main>
       <section>
         </br>
+        <!-- ABOUT ME -->
         <article>
           <h1>👤 Sobre mí</h1>
           <font size="4">
@@ -25,6 +26,7 @@
           </font>
         </article>
         </br>
+        <!-- PROJECTS -->
         <article>
           <h1>🚀 Proyectos</h1>
           <font size="4">
@@ -40,6 +42,7 @@
           </font>
         </article>
         </br>
+        <!-- PROGRAMMING LANGUAGES -->
         <article>
           <h1>⭐ Lenguajes de programación</h1>
           <p align="center">
@@ -50,6 +53,7 @@
           </p>
         </article>
         </br>
+        <!-- FRAMEWORKS, DATABASES AND OTHER TOOLS -->
         <article>
           <h1>⚙️ Frameworks, bases de datos y otras herramientas</h1>
           <p align="center">
@@ -60,6 +64,7 @@
           </p>
         </article>
         </br>
+        <!-- STATISTICS -->
         <article>
           <h1>📈 Estadísticas</h1>
           <p align="center">
@@ -85,6 +90,7 @@
           </p>
         </article>
         </br>
+        <!-- CONTACT -->
         <article>
           <h1>✉️ Contacto</h1>
             <p align="center">
@@ -100,6 +106,7 @@
     </main>
     <footer>
       </br>
+      <!-- CREDITS -->
       <h3>Créditos (páginas webs y fuentes usadas en el README.md)</h3>
       <font size="4">
         <ul>
