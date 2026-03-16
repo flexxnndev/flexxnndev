@@ -4,27 +4,12 @@
   </head>
   <body>
     <header>
-  <!-- LANGUAGES -->
+      
   [🇬🇧 English](README.md) | [🇪🇸 Español](README-ES.md)
       <nav></nav>
     </header>
     <main>
       <section>
-        </br>
-        <!-- ABOUT ME -->
-        <article>
-          <h1>👤 Sobre mí</h1>
-          <font size="4">
-            <ul>
-              <li>👨‍💻 Estudiante de Ingeniería Informática.</li>
-              <li>✅ Disponible para hacer prácticas.</li>
-              <li>💻 Pasión por todo el mundo de la informática.</li>
-              <li>🤖 Especial interés en IA, front-end y dispositivos móviles.</li>
-              <li>🧠 Actualmente explorando nuevos sectores fuera de la carrera universitaria.</li>
-              <li>📨 Correo: flexxdev.contact@gmail.com</li>
-            </ul>
-          </font>
-        </article>
         </br>
         <!-- PROJECTS -->
         <article>
@@ -62,6 +47,21 @@
               alt="mySQL, Visual Studio Code, Windows"
             />
           </p>
+        </article>
+        </br>
+        <!-- ABOUT ME -->
+        <article>
+          <h1>👤 Sobre mí</h1>
+          <font size="4">
+            <ul>
+              <li>👨‍💻 Estudiante de Ingeniería Informática.</li>
+              <li>✅ Disponible para hacer prácticas.</li>
+              <li>💻 Pasión por todo el mundo de la informática.</li>
+              <li>🤖 Especial interés en IA, front-end y dispositivos móviles.</li>
+              <li>🧠 Actualmente explorando nuevos sectores fuera de la carrera universitaria.</li>
+              <li>📨 Correo: flexxdev.contact@gmail.com</li>
+            </ul>
+          </font>
         </article>
         </br>
         <!-- STATISTICS -->
